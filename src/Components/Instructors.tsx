@@ -1,6 +1,6 @@
 'use client';
-import { WavyBackground } from "@/components/ui/wavy-background";
-import { AnimatedTooltip } from "@/components/ui/animated-tooltip";
+import { WavyBackground } from "./ui/wavy-background";
+import { AnimatedTooltip } from "./ui/animated-tooltip";
 
 
 export default function Instructors() {
