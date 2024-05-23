@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
+          <h2 className="text-white text-lg font-semibold mb-4">Follow Me</h2>
           <div className="flex space-x-4">
             <ul>
               <li>

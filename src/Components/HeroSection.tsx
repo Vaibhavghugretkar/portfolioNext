@@ -27,13 +27,13 @@ function HeroSection() {
         </p>
 
         <div className="mt-4">
-          <Link href={"/courses"}></Link>
+          <Link href={"#"}></Link>
         </div>
         <Button
           borderRadius="1.75rem"
           className="text-xl bg-white dark:bg-black  text-black dark:text-white border-neutral-200 dark:border-slate-800"
         >
-          Contact Me
+        <Link  href={"#contact"}>Contact Me</Link> 
         </Button>
       </div>
     </div>

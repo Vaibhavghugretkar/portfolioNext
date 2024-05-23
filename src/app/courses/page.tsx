@@ -11,7 +11,7 @@ const courseData = {
       id: 1,
       title: "Music Class Website",
       description: "A simple Music Class website built with Next.js",
-      image: "/muscClass.jpg",
+      image: "./muscClass.jpg",
       url: "https://vaibhavghugretkar.github.io/MusicClass/",
     },
     {
