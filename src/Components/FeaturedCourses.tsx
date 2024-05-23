@@ -1,6 +1,6 @@
 'use client'
 import CourseData from "../data/music_courses.json";
-import { BackgroundGradient } from "@/components/ui/background-gradient";
+import { BackgroundGradient } from "./ui/background-gradient";
 
 export default function FeaturedCourses() {
 interface Course{
