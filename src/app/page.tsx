@@ -1,11 +1,11 @@
-import Contact from "@/Components/Contact";
-import FeaturedCourses from "@/Components/FeaturedCourses";
-import Footer from "@/Components/Footer";
-import HeroSection from "@/Components/HeroSection";
-import Instructors from "@/Components/Instructors";
-import MusicSchoolTestimonials from "@/Components/TestimonialCards";
-import UpcomingWebinars from "@/Components/UpcomingWebinars";
-import WhyChooseUs from "@/Components/WhyChooseUs";
+import Contact from "@/components/Contact";
+import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
+import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
+import MusicSchoolTestimonials from "@/components/TestimonialCards";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
+import WhyChooseUs from "@/components/WhyChooseUs";
 import Courses from '@/app/courses/page'
 export default function Home() {
   return (
