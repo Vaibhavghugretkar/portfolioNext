@@ -1,7 +1,7 @@
 'use client-hf4'
 import React from "react";
 import Link from "next/link";
-import { HoverEffect } from "./ui/card-hover-effect";
+import { HoverEffect } from "@/components/ui/card-hover-effect";
 
 function UpcomingWebinars() {
     const featuredWebinars = [

@@ -1,4 +1,4 @@
-import { Input } from "./ui/input";
+import { Input } from "@/components/ui/input";
 export default function contact() {
   return (
     <div id="contact" className="h-[32rem] w-full bg-gradient-to-r from-black to-gray-900 relative flex flex-col items-center justify-center overflow-hidden">
