@@ -13,7 +13,7 @@ function HeroSection() {
 
       <div className=" mt-20 p-12 relative z-10 w-full text-center ">
         <div className="flex justify-center mt-7">
-        <Image alt=""  src="2023-09-10-01-01-23-165(1).jpg" width={150} className="rounded-full"></Image>
+        <Image alt=""  src="2023-09-10-01-01-23-165(1).jpg" width={150}  height={10} className="rounded-full"></Image>
         </div>
         <h1 className="text-white text-3xl mt-5">Hey there I&apos;m,</h1>
         <h1 className="mt-6 text-transparent bg-gradient-to-r bg-clip-text from-blue-500 to-green-500 md:mt-20rem text-4xl md:text-5xl font-bold">
