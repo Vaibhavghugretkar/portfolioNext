@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
-import { CardBody, CardContainer } from "@/Components/ui/3d-card";
-import { Button } from "@/Components/ui/moving-border";
+import { CardBody, CardContainer } from "@/components/ui/3d-card";
+import { Button } from "@/components/ui/moving-border";
 import Link from "next/link";
 
 // Define the course data object with project URLs
