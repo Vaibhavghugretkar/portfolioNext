@@ -1,6 +1,5 @@
 'use client'
 import CourseData from "../data/music_courses.json";
-import Link from "next/link";
 import { BackgroundGradient } from "./ui/background-gradient";
 
 export default function FeaturedCourses() {
