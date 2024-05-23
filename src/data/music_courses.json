@@ -1,0 +1,46 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Frontend",
+        "slug": "guitar-fundamentals",
+        "description": "HTML CSS React Nextjs Tailwind Bootstrap",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/guitar.avif" 
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/piano.avif" 
+      },
+      {
+        "id": 3,
+        "title": "Backend",
+        "slug": "advanced-vocal-techniques",
+        "description": "Nodejs Firebase ",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/guitar.avif" 
+      },
+  
+      {
+        "id": 6,
+        "title": "Database",
+        "slug": "music-production-fundamentals",
+        "description": "MongoDB Firebase SQL",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/piano.avif"
+      }
+    ]
+  }
+  
